@@ -2,3 +2,10 @@
 * Created on: Feb 2024
 * This file contains the CSS for index.html
 */
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
