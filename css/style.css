@@ -9,3 +9,28 @@
   margin-right: auto;
   width: 50%;
 }
+
+.mdl-ripple {
+  background: #000;
+  opacity: 0.001;
+}
+
+.mdl-layout__content {
+  padding-left: 15pt;
+  padding-right: 15pt;
+  padding-top: 15pt;
+}
+
+.mdl-textfield__error {
+  color: rgb(144, 238, 144);
+}
+
+.page-content {
+  color: white;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 1.25rem;
+}
+
+body {
+  background-color: cornflowerblue;
+}
